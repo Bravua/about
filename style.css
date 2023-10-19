@@ -532,7 +532,7 @@ body{
     color: white;
   }
   .aboutbg{
-    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/abtimg.png');
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/retailer_gift_cards.webp');
     height: 70vh;
     background-position: center;
     background-size: cover;
@@ -1753,7 +1753,7 @@ body{
     color: white;
   }
   .aboutbg{
-    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/abtimg.png');
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/retailer_gift_cards.webp');
     height: 70vh;
     background-position: center;
     background-size: cover;
